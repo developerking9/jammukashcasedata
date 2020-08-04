@@ -2,13 +2,17 @@
   "JammmuKashmir": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Namejm": "Jammu Kashmir (जम्मू कश्मीर)",
+      "TotalCasesjm": "1583792",
+      "TotalDeathsjm": "34968",
+      "TotalRecoveredjm": "1020582",
+      "TotalCasesojm": "1.58M",
+      "TotalDeathswjm": "34.96K",
+      "TotalRecoveredrjm": "1.02M",
+      "TotalIncjm": "52.12K+",
+      "TotalDecjm": "775+",
+      "TotalRecjm": "32.55K+",
+      "Conditionjm": "Need to improve"
     }
   ]
 }
